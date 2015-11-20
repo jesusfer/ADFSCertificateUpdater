@@ -1,7 +1,7 @@
-# ADFSCertificateUpdater
+## ADFSCertificateUpdater
 A custom SharePoint 2013 timer job that will update the certificate in the trusted providers from the ADFS federation metadata.
 
-*What is this about*
+#### What is this about
 
 SharePoint does not include any automatic way to update the certificates in the trusted providers when they expire. This usually leads to problems when the certificate auto rollover happens in ADFS and then breaks the ADFS authentication in SharePoint.
 
