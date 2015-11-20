@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e18739c3-36da-4051-ba61-c1d2ecf56c6d" solutionId="e18739c3-36da-4051-ba61-c1d2ecf56c6d" resetWebServer="false" sharePointProductVersion="15.0" name="ADFSCertificateUpdater" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="3f18a3c5-ee3e-415f-aa59-affe95379e5f" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="b5ec6b08-4606-404c-9df2-78089f75144a" />
+  </projectItems>
+</package>

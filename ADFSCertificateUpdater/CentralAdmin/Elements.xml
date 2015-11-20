@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction Id="D21FB1E9-BF7D-4A2A-AF66-E4A046706CFB"
+                GroupId="GeneralSecurity"
+                Location="Microsoft.SharePoint.Administration.Security"
+                Sequence="1000"
+                Title="Configure ADFS certificate updater"
+                Description="Modify the configuration of the ADFS certificate updater timer job."
+                RequiredAdmin="Farm">
+    <UrlAction Url="_admin/ADFSCertificateUpdater/TimerJobConfiguration.aspx" />
+  </CustomAction>
+</Elements>
